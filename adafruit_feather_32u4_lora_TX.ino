@@ -1,3 +1,5 @@
+// taken from https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module?view=all#transmitter-example-code-2567682
+
 // Feather9x_TX
 // -*- mode: C++ -*-
 // Example sketch showing how to create a simple messaging client (transmitter)

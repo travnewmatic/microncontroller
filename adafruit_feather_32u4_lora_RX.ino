@@ -1,3 +1,5 @@
+// taken from https://learn.adafruit.com/adafruit-feather-32u4-radio-with-lora-radio-module?view=all#receiver-example-code-2567689
+
 // RX
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
